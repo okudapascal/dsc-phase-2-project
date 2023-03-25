@@ -83,7 +83,7 @@ The steps taken to prepare the data for analysis were:
 ### Exploratory Data Analysis
 - There were few outlier in the data, but I chose to scale the data to deal with the outliers.
 
-![Top 10 movies by Production Budget](https://github.com/okudapascal/dsc-phase-2-project/blob/main/image%201?raw=true)
+![Correlation matrix]([https://github.com/okudapascal/dsc-phase-2-project/blob/main/image%201?raw=true](https://github.com/okudapascal/dsc-phase-2-project/blob/main/images/Correlation%20matrix.png))
 
 ## Conclusions 
 Based on the data analysis, the following conclusions can be drawn: From the analysis, it was noted that square feet of living have a strong positive correlation with the house pricing
