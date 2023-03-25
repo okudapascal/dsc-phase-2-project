@@ -85,6 +85,13 @@ The steps taken to prepare the data for analysis were:
 Correlation Matrix
 ![Correlation matrix](https://github.com/okudapascal/dsc-phase-2-project/blob/main/images/Correlation%20matrix.png?raw=true)
 
+Normality plot
+
+![Normality plot](https://github.com/okudapascal/dsc-phase-2-project/blob/main/images/Normality%20plot.png?raw=true)
+
+Regression plots
+
+![Regression plot](https://github.com/okudapascal/dsc-phase-2-project/blob/main/images/Regression%20plots.png?raw=true)
 
 ## Conclusions 
 Based on the data analysis, the following conclusions can be drawn: From the analysis, it was noted that square feet of living have a strong positive correlation with the house pricing
