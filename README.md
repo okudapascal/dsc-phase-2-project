@@ -61,6 +61,31 @@ We recommend structuring your project repository similar to the structure in [th
 
 Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
 
-## Summary
 
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+## Data Sources
+The data sources used the following data analysis project were:
+* [Amex dataset](https://github.com/okudapascal/dsc-phase-2-project/blob/main/data/kc_house_data.csv)
+
+## Methods
+The following methods to analyze the data:
+### Data Cleaning and Preprocessing
+The steps taken to prepare the data for analysis were:
+- Dropping the columns that are redundant and not required for the analysis.
+- Duplicate identification and drop them.
+- Checking for invalid entries and imputing
+- Checking for and imputing null values.
+- Categorical variables conversion to individual columns.
+- Scaling of the continuous variables.
+- Dealing with multicollinearity.
+
+
+
+### Exploratory Data Analysis
+- There were few outlier in the data, but I chose to scale the data to deal with the outliers.
+
+![Top 10 movies by Production Budget](https://github.com/nyamskamau/FI_Phase1_Project/blob/main/image%201?raw=true)
+
+## Conclusions 
+Based on the data analysis, the following conclusions can be drawn: From the analysis, it was noted that square feet of living have a strong positive correlation with the house pricing
+
+
