@@ -83,7 +83,8 @@ The steps taken to prepare the data for analysis were:
 ### Exploratory Data Analysis
 - There were few outlier in the data, but I chose to scale the data to deal with the outliers.
 
-![Correlation matrix](https://github.com/okudapascal/dsc-phase-2-project/blob/main/image%201?raw=true)
+![Correlation matrix](https://github.com/nyamskamau/FI_Phase1_Project/blob/main/image%201?raw=true)
+Correlation Matrix
 
 ## Conclusions 
 Based on the data analysis, the following conclusions can be drawn: From the analysis, it was noted that square feet of living have a strong positive correlation with the house pricing
