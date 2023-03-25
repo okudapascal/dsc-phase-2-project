@@ -94,6 +94,6 @@ Regression plots
 ![Regression plot](https://github.com/okudapascal/dsc-phase-2-project/blob/main/images/Regression%20plots.png?raw=true)
 
 ## Conclusions 
-Based on the data analysis, the following conclusions can be drawn: From the analysis, it was noted that square feet of living have a strong positive correlation with the house pricing
+Based on the data analysis, the following conclusion can be drawn: From the analysis, it was noted that square feet of living have a strong positive correlation with the house pricing
 
 
